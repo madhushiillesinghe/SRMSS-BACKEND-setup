@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Ijse@1234",
+    "database": "srmss_transport",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "Ijse@1234",
+    "database": "SRMSS_transport_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "username": "root",
+    "password": "Ijse@1234",
+    "database": "SRMSS_transport_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false
+  }
+}
